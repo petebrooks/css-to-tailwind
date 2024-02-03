@@ -1,5 +1,5 @@
 {
-  "name": "css-to-tailwindcss",
+  "name": "css-to-tailwind",
   "version": "1.0.0",
   "description": "CSS to TailwindCSS converter",
   "main": "./lib/index.js",
